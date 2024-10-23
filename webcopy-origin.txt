@@ -1,17 +1,17 @@
 Uri: http://d3ntly.ml/
-File Name: C:\Downloaded Web Sites\d3ntly.ml\index.htm
+File Name: index.html
 Content Type: text/html
 
-Uri: http://d3ntly.ml/assets/css/index/style.css
-File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\css\index\style.css
+Uri: style.css
+File Name: style.css
 Content Type: text/css
 
-Uri: http://d3ntly.ml/assets/favico/ico.png
-File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\favico\ico.png
+Uri: ico.png
+File Name: ico.png
 Content Type: image/png
 
-Uri: http://d3ntly.ml/assets/fonts/gsans/ProductSans-Bold.ttf
-File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\fonts\gsans\ProductSans-Bold.ttf
+Uri: ProductSans-Bold.ttf
+File Name: ProductSans-Bold.ttf
 Content Type: font/ttf
 
 Uri: http://d3ntly.ml/assets/fonts/gsans/ProductSans-Italic.ttf
