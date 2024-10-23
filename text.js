@@ -21,7 +21,7 @@ $(function () {
 });
 $(function () {
     $(".typed").typed({
-        strings: ["python developer", "(nedo)coder", "c# beginner", "music lover...", "hmmm...", "rm -rf \/\*", "bruh"],
+        strings: ["node.js lover", "nedo-coder", "paranoic", "music lover", "hmmm...", "just delete me", "lost", "Bruh."],
         typeSpeed: 35,
         backSpeed: 0,
         cursorChar: ['❚'],
