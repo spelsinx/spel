@@ -7,7 +7,7 @@ app.use(express.static(path.join(__dirname)));
 
 // Роут для загрузки index.html
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
+  res.sendFile(path.join(__dirname, './index.html'));
 });
 
 module.exports = app;
