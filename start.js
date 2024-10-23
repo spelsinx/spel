@@ -3,7 +3,7 @@ const path = require('path');
 const app = express();
 
 // Указываем текущий каталог как источник статических файлов
-app.use(express.static(path.join(__dirname)));
+app.use(express.static(path.join('.')));
 
 // Роут для загрузки index.html
 app.get('/', (req, res) => {
