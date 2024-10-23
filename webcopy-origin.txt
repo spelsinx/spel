@@ -1,0 +1,52 @@
+Uri: http://d3ntly.ml/
+File Name: C:\Downloaded Web Sites\d3ntly.ml\index.htm
+Content Type: text/html
+
+Uri: http://d3ntly.ml/assets/css/index/style.css
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\css\index\style.css
+Content Type: text/css
+
+Uri: http://d3ntly.ml/assets/favico/ico.png
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\favico\ico.png
+Content Type: image/png
+
+Uri: http://d3ntly.ml/assets/fonts/gsans/ProductSans-Bold.ttf
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\fonts\gsans\ProductSans-Bold.ttf
+Content Type: font/ttf
+
+Uri: http://d3ntly.ml/assets/fonts/gsans/ProductSans-Italic.ttf
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\fonts\gsans\ProductSans-Italic.ttf
+Content Type: font/ttf
+
+Uri: http://d3ntly.ml/assets/fonts/gsans/ProductSans-Regular.ttf
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\fonts\gsans\ProductSans-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://d3ntly.ml/assets/fonts/gsans/style.css
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\fonts\gsans\style.css
+Content Type: text/css
+
+Uri: http://d3ntly.ml/assets/images/да.jpg
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\images\да.jpg
+Content Type: image/jpeg
+
+Uri: http://d3ntly.ml/assets/js/text.js
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\js\text.js
+Content Type: application/javascript
+
+Uri: http://d3ntly.ml/assets/js/typed.min.js
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\js\typed.min.js
+Content Type: application/javascript
+
+Uri: http://d3ntly.ml/assets/vars.css
+File Name: C:\Downloaded Web Sites\d3ntly.ml\assets\vars.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.4.1.js
+File Name: C:\Downloaded Web Sites\d3ntly.ml\jquery-3.4.1.js
+Content Type: application/javascript
+
+Uri: https://sindresorhus.com/devtools-detect/index.js
+File Name: C:\Downloaded Web Sites\d3ntly.ml\devtools-detect\index.js
+Content Type: application/javascript
+
